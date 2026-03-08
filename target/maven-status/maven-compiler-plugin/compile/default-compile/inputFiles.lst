@@ -1,0 +1,15 @@
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/dto/HelloWorldResponse.java
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/dto/CreateUserRequest.java
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/UserApiApplication.java
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/dto/ErrorResponse.java
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/dto/UserResponse.java
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/service/UserService.java
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/exception/UserNotFoundException.java
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/repository/UserRepository.java
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/model/User.java
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/cache/LruCache.java
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/controller/HelloWorldController.java
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/config/CacheConfig.java
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/exception/GlobalExceptionHandler.java
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/controller/UserController.java
+/Users/jobthomas/Documents/022-ClaudeCodeLearning/claude_code/src/main/java/com/example/userapi/service/UserServiceImpl.java
